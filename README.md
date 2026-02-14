@@ -4,23 +4,23 @@
 ## Mini CLI Productivity Tool ##
 📌 **Overview**
 
-This project is a simple command-line productivity tool built with Node.js.
+This project is a simple command-line productivity tool built with **Node.js**.
 It allows users to manage tasks directly from the terminal using basic CLI commands.
 
-The tool supports adding, listing, marking tasks as done, and deleting tasks.
+The tool supports **adding**, **listing**, **marking** tasks as done, and **deleting** tasks.
 All tasks are stored locally in a tasks.json file.
 
 🚀 **Features**
 
-Add new tasks
++ Add new tasks
 
-List all tasks
++ List all tasks
 
-Mark tasks as completed
++ Mark tasks as completed
 
-Delete tasks
++ Delete tasks
 
-Persistent storage using JSON
++ Persistent storage using JSON
 
 🛠 **How to Run**
 
