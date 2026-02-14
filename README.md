@@ -28,11 +28,13 @@ All tasks are stored locally in a tasks.json file.
 
 - Run the following commands inside the project folder in powershell:
 
+```
 node index.js add "Task name"
 node index.js list
 node index.js done 1
 node index.js delete 1
 
+```
 🧠 **GitHub Copilot CLI Experience**
 
 As part of the challenge, I installed [GitHub Copilot CLI](https://github.com/features/copilot/cli) and configured it in PowerShell to follow the challenge requirements.
