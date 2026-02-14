@@ -1,8 +1,8 @@
 # Github_Copilot_CLI_Challenge
 
 
-Mini CLI Productivity Tool
-📌 Overview
+## Mini CLI Productivity Tool ##
+📌 **Overview**
 
 This project is a simple command-line productivity tool built with Node.js.
 It allows users to manage tasks directly from the terminal using basic CLI commands.
@@ -10,7 +10,7 @@ It allows users to manage tasks directly from the terminal using basic CLI comma
 The tool supports adding, listing, marking tasks as done, and deleting tasks.
 All tasks are stored locally in a tasks.json file.
 
-🚀 Features
+🚀 **Features**
 
 Add new tasks
 
@@ -22,7 +22,7 @@ Delete tasks
 
 Persistent storage using JSON
 
-🛠 How to Run
+🛠 **How to Run**
 
 Make sure Node.js is installed.
 
@@ -33,7 +33,7 @@ node index.js list
 node index.js done 1
 node index.js delete 1
 
-🧠 GitHub Copilot CLI Experience
+🧠 **GitHub Copilot CLI Experience**
 
 As part of the challenge, I installed GitHub Copilot CLI and configured it in PowerShell to follow the challenge requirements.
 
@@ -64,7 +64,7 @@ Test and debug directly in PowerShell
 
 This project reflects my ability to continue development even when tooling limitations occur.
 
-📚 What I Learned
+📚 **What I Learned**
 
 How to build a Node.js CLI application
 
@@ -78,14 +78,14 @@ Debugging directly in PowerShell
 
 Adapting when development tools are unavailable
 
-💡 Reflection
+💡 **Reflection**
 
 While GitHub Copilot CLI was successfully installed, quota restrictions required me to complete the challenge manually.
 
 This experience reinforced the importance of understanding core concepts rather than relying solely on AI tools.
 
 
-🤖 Use of AI Tools
+🤖 **Use of AI Tools**
 
 During development, I used AI tools (including ChatGPT) for guidance and troubleshooting while building the CLI tool manually.
 
