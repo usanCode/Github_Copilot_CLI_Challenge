@@ -24,9 +24,9 @@ All tasks are stored locally in a tasks.json file.
 
 🛠 **How to Run**
 
-Make sure Node.js is installed.
+- Make sure Node.js is installed.
 
-Run the following commands inside the project folder:
+- Run the following commands inside the project folder:
 
 node index.js add "Task name"
 node index.js list
@@ -39,11 +39,11 @@ As part of the challenge, I installed GitHub Copilot CLI and configured it in Po
 
 During setup:
 
-I installed the Copilot CLI globally using npm.
++ I installed the Copilot CLI globally using npm.
 
-Configured execution policy in PowerShell.
++ Configured execution policy in PowerShell.
 
-Authenticated successfully.
++ Authenticated successfully.
 
 However, after setup, I encountered a limitation:
 My monthly GitHub Copilot quota had been reached, which prevented further usage of Copilot CLI for generating responses.
