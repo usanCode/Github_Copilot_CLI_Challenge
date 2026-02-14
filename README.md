@@ -24,9 +24,9 @@ All tasks are stored locally in a tasks.json file.
 
 🛠 **How to Run**
 
-- Make sure [Node.js](https://nodejs.org/en/download) is installed.
+- Make sure [Node.js](https://nodejs.org/en/download) is installed in your system.
 
-- Run the following commands inside the project folder:
+- Run the following commands inside the project folder in powershell:
 
 node index.js add "Task name"
 node index.js list
