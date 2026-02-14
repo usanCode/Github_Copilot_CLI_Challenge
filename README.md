@@ -52,31 +52,31 @@ Although I have previously used the GitHub Copilot Chat extension in VS Code, I 
 
 Instead of stopping, I proceeded to:
 
-Design the CLI tool manually
+- Design the CLI tool manually
 
-Implement command parsing using process.argv
+- Implement command parsing using process.argv
 
-Manage file persistence using Node’s fs module
+- Manage file persistence using Node’s fs module
 
-Build CRUD functionality for tasks
+- Build CRUD functionality for tasks
 
-Test and debug directly in PowerShell
+- Test and debug directly in PowerShell
 
 This project reflects my ability to continue development even when tooling limitations occur.
 
 📚 **What I Learned**
 
-How to build a Node.js CLI application
++ How to build a Node.js CLI application
 
-Working with command-line arguments
++ Working with command-line arguments
 
-Reading and writing JSON files
++ Reading and writing JSON files
 
-Handling state persistence
++ Handling state persistence
 
-Debugging directly in PowerShell
++ Debugging directly in PowerShell
 
-Adapting when development tools are unavailable
++ Adapting when development tools are unavailable
 
 💡 **Reflection**
 
@@ -89,5 +89,3 @@ This experience reinforced the importance of understanding core concepts rather 
 
 During development, I used AI tools (including ChatGPT) for guidance and troubleshooting while building the CLI tool manually.
 
-All code was reviewed, understood, tested, and adapted by me.
-AI assistance was used as a learning aid, not as a replacement for understanding the implementation.
