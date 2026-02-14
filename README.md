@@ -35,7 +35,7 @@ node index.js delete 1
 
 🧠 **GitHub Copilot CLI Experience**
 
-As part of the challenge, I installed GitHub Copilot CLI and configured it in PowerShell to follow the challenge requirements.
+As part of the challenge, I installed [GitHub Copilot CLI](https://github.com/features/copilot/cli) and configured it in PowerShell to follow the challenge requirements.
 
 During setup:
 
