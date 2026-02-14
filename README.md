@@ -24,7 +24,7 @@ All tasks are stored locally in a tasks.json file.
 
 🛠 **How to Run**
 
-- Make sure Node.js is installed.
+- Make sure [https://nodejs.org/en/download](Node.js) is installed.
 
 - Run the following commands inside the project folder:
 
