@@ -93,5 +93,5 @@ This experience reinforced the importance of understanding core concepts rather 
 
 During development, I used AI tools (including ChatGPT) for guidance and troubleshooting while building the CLI tool manually.
 
-_I should specify that I signed up for this challenge yesterday, February 14, 2026, and that although I couldn't use the GitHub Copilot CLI because I had used up my monthly quota, I still participated in the challenge and followed the instructions for downloading and installing the GitHub Copilot CLI. Previously, I used GitHub Copilot as an extension in VS Code_
+_I should specify that I signed up for this challenge yesterday, February 14, 2026, and although I couldn't use GitHub Copilot CLI because I had used up my monthly quota, I still participated in the challenge and followed the instructions for downloading and installing the GitHub Copilot CLI. Previously, I used GitHub Copilot as an extension in VS Code_
 
