@@ -24,7 +24,7 @@ All tasks are stored locally in a tasks.json file.
 
 🛠 **How to Run**  
 
-[Here is the screenshot of the demo](C:\Users\HP\Desktop\Github_copilot_CLI_Challenge\Github_Copilot_CLI_Challenge\images\results.GIF)
+[Here is the screenshot of the demo](./images/results.GIF)
 
 - Make sure [Node.js](https://nodejs.org/en/download) is installed in your system.
 
